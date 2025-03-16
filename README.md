@@ -25,7 +25,7 @@ And run our node app
         --network favorites-network \
         favorites-node
 
-And at this point, if we look into the [localhost:3000/favorites](localhost:3000/favorites) we get this result:
+And at this point, if we look into the `localhost:3000/favorites` we get this result:
 
     {
         "favorites":[]
